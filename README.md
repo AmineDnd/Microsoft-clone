@@ -10,4 +10,4 @@ A responsive front-end clone of Microsoft's homepage built using HTML, CSS, and 
 - Font Awesome social media integration
 
 ## Live Demo
-[View on GitHub Pages](https://yourusername.github.io/microsoft-clone/)
+[View on GitHub Pages](https://aminednd.github.io/Microsoft-clone/)
